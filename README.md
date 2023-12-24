@@ -59,7 +59,7 @@ MSSV|Họ tên
 ![Q2_price](./Project/Image/q2_price.png)
 
 - Câu hỏi 3:
-  - Lấy ra các phòng thỏa mãn yêu cầu mà chúng ta đa hướng tới, đó là bài đăng của các căn airbnb có giá dưới 1000$
+  - Lấy ra các phòng thỏa mãn yêu cầu mà chúng ta đang hướng tới, đó là bài đăng của các căn airbnb có giá dưới 1000$
   - Xem xét sự phân bố của 'price' đối với cắc căn airbnb có giá dưới 1000$
   - Fine tuning để tìm ra bộ hyperparameters tốt nhất cho Linear Regression và Random Forest
   - Huấn luyện và kiểm tra mô hình 
