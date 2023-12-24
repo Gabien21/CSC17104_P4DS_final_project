@@ -32,11 +32,11 @@ MSSV|Họ tên
 
 > - Phân bố số lượng Airbnb ở New York 
 
-![Q1_number](./Image/q1_number.png)
+![Q1_number](./Project/Image/q1_number.png)
 
 > - Phân bố giá trung bình Airbnb ở New York 
 
-![Q1_price](./Image/q1_price.png)
+![Q1_price](./Project/Image/q1_price.png)
 
 - Câu hỏi 2:
   - Lấy ra các căn hộ ở các khu vực mà có giá hơn 1000 USD một đêm và có thời gian lưu trú tối thiểu một hoặc hai đêm.
@@ -52,11 +52,11 @@ MSSV|Họ tên
 
 > - Mức giá trung bình của các Airbnb theo loại phòng và số đêm ở tối thiểu
 
-![Q2](./Images/q2_nights.png)
+![Q2_nights](./Project/Image/q2_nights.png)
 
 > - Mức giá trung bình của Airbnb theo từng khu vực
 
-![Q2](./Images/q2_price.png)
+![Q2_price](./Project/Image/q2_price.png)
 
 - Câu hỏi 3:
   - Lấy ra các phòng thỏa mãn yêu cầu mà chúng ta đa hướng tới, đó là bài đăng của các căn airbnb có giá dưới 1000$
@@ -66,12 +66,11 @@ MSSV|Họ tên
   - Đánh giá mô hình bằng các chỉ số MAE, MSE , R2 score của 2 mô hình 
 
 > **Kết quả:** Kết quả R2 score khá thấp và chỉ số MAE , MSE đều khá lớn cho thấy các mô hình đều không đưa ra kết quả khả quan 
-![Q3](./Image/q3.png)
+![Q3](./Project/Image/q3.png)
 
 #### **_04. More Information:_**
 - [Github](https://github.com/Gabien21/CSC17104_P4DS_final_project)
-- [Trello](https://github.com/Gabien21/CSC17104_P4DS_final_project)
 
 #### **_05. Planning:_**
-![Planning_1](./Image/planning1.png)
-![Planning_2](./Image/planning2.png)
+![Planning_1](./Project/Image/planning1.png)
+![Planning_2](./Project/Image/planning2.png)

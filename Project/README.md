@@ -52,11 +52,11 @@ MSSV|Họ tên
 
 > - Mức giá trung bình của các Airbnb theo loại phòng và số đêm ở tối thiểu
 
-![Q2](./Images/q2_nights.png)
+![Q2](./Image/q2_nights.png)
 
 > - Mức giá trung bình của Airbnb theo từng khu vực
 
-![Q2](./Images/q2_price.png)
+![Q2](./Image/q2_price.png)
 
 - Câu hỏi 3:
   - Lấy ra các phòng thỏa mãn yêu cầu mà chúng ta đa hướng tới, đó là bài đăng của các căn airbnb có giá dưới 1000$
@@ -70,7 +70,6 @@ MSSV|Họ tên
 
 #### **_04. More Information:_**
 - [Github](https://github.com/Gabien21/CSC17104_P4DS_final_project)
-- [Trello](https://github.com/Gabien21/CSC17104_P4DS_final_project)
 
 #### **_05. Planning:_**
 ![Planning_1](./Image/planning1.png)
