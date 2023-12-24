@@ -51,9 +51,11 @@ MSSV|Họ tên
 > - Người dùng và nhà đầu tư dùng các phân tích trên để từ đó có thể đưa ra các quyết định của mình. (Ví dụ đối với các nhà đầu tư, có thể xem xét đầu tư xây dựng thêm nhiều căn hộ ở các vùng như Queens, Bronx, Staten Island vì các khu vực này số lượng phòng đạt yêu cầu còn khá ít)
 
 > - Mức giá trung bình của các Airbnb theo loại phòng và số đêm ở tối thiểu
+
 ![Q2](./Images/q2_nights.png)
 
 > - Mức giá trung bình của Airbnb theo từng khu vực
+
 ![Q2](./Images/q2_price.png)
 
 - Câu hỏi 3:
