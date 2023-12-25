@@ -61,6 +61,7 @@ MSSV|Họ tên
 - Câu hỏi 3:
   - Lấy ra các phòng thỏa mãn yêu cầu mà chúng ta đang hướng tới, đó là bài đăng của các căn airbnb có giá dưới 1000$
   - Xem xét sự phân bố của 'price' đối với cắc căn airbnb có giá dưới 1000$
+  - Xử lí các cột có kiểu categorical bằng one-hot encoding.
   - Fine tuning để tìm ra bộ hyperparameters tốt nhất cho Linear Regression và Random Forest
   - Huấn luyện và kiểm tra mô hình 
   - Đánh giá mô hình bằng các chỉ số MAE, MSE , R2 score của 2 mô hình 
